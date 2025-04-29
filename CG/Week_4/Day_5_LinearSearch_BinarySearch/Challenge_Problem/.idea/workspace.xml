@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ada675e-5aef-40c4-a198-df84984e5a0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Week_2/Day_4/Hierarchial Inheritence/Hierarchial_Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_2/Day_4/Hierarchial Inheritence/Hierarchial_Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_2/Day_4/Hybrid Inheritence/Hybrid_Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_2/Day_4/Hybrid Inheritence/Hybrid_Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_2/Day_4/Multi Level Inheritence/MLQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_2/Day_4/Multi Level Inheritence/MLQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_2/Day_4/Single Inheritence/SQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_2_Encapsulation/EQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_2_Encapsulation/EQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_2_Encapsulation/EQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_2_Encapsulation/EQ4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_2_Encapsulation/EQ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_2_Encapsulation/EQ6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_2_Encapsulation/EQ7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_2_Encapsulation/EQ8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week_3/Day_5_Data_Structures/DSQ9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Hash_Maps_and _Hash_Functions/HMHFQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Hash_Maps_and _Hash_Functions/HMHFQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Hash_Maps_and _Hash_Functions/HMHFQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Hash_Maps_and _Hash_Functions/HMHFQ4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Hash_Maps_and _Hash_Functions/HMHFQ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Stacks_and_Queues/SQQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Stacks_and_Queues/SQQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Stacks_and_Queues/SQQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Stacks_and_Queues/SQQ4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_1_Stack_Queue_HashMap/Stacks_and_Queues/SQQ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_3_Sorting_Algorithms/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_3_Sorting_Algorithms/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_3_Sorting_Algorithms/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_3_Sorting_Algorithms/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_3_Sorting_Algorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_3_Sorting_Algorithms/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_3_Sorting_Algorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../File_Reader/FRQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../File_Reader/FRQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPStream_Reader/IPQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPStream_Reader/IPQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String_Buffer/SBQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String_Buffer/SBQ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week_2/Day_4/Single Inheritence/SQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week_2/Day_4/Single Inheritence/SQ1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2vr8cIk87lFy7b4iiIZzw759Yp1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lehazseenu/Desktop/CG/Week_4/Day_5_LinearSearch_BinarySearch/Challenge_Problem"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ada675e-5aef-40c4-a198-df84984e5a0e" name="Changes" comment="" />
+      <created>1744891909812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744891909812</updated>
+    </task>
+    <servers />
+  </component>
+</project>
